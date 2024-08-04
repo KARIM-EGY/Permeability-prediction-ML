@@ -2,6 +2,7 @@ Firstly i downloaded this well log data from the open source data of the officia
 
 Data Understanding and Units
 **DEPTH:** Measured in meters or feet, indicating the depth of the well.
+
 **Compressional Slowness:** Typically measured in microseconds per foot (µs/ft), indicating the time it takes for a compressional wave to travel through the formation.
 **GR (Gamma Ray):** Measured in API units, indicating the natural radioactivity of the formation, used to identify shales.
 **Neutron Porosity:** Measured as a fraction or percentage, indicating the hydrogen content and indirectly the porosity.
