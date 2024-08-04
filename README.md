@@ -1,4 +1,4 @@
-Firstly i downloaded this well log data from the open source data of the official norwigean website equinor - VOLVE
+Firstly i downloaded this well log data from the open source data of the official norwigean website **equinor - VOLVE**
 
 Data Understanding and Units
 
@@ -79,7 +79,7 @@ MAE: 0.0148
 
 MSE: 0.0008
 
-Conclusion
+**Conclusion**
 
 The Random Forest Regressor performed the best with the lowest MAE (0.0113) and MSE (0.0005), indicating it predicted permeability most accurately among the models tested.
 
